@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{56CE63D6-13DB-4C4F-9793-EB0CA51EFF3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="kimilisp/types.fs">
+    <Files>
+      <File FileName="kimilisp/step2_eval.fs" Line="34" Column="13" />
+      <File FileName="kimilisp/step3_env.fs" Line="9" Column="26" />
+      <File FileName="kimilisp/node.fs" Line="51" Column="27" />
+      <File FileName="kimilisp/types.fs" Line="3" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.kimilisp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
