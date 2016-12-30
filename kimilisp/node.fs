@@ -6,6 +6,8 @@ module Node
     let SomeTRUE = Some(TRUE)
     let FALSE = Bool(false)
     let SomeFALSE = Some(FALSE)
+
+    (* BIG DOUBT  *)
     let NIL = Nil
     let SomeNIL = Some(NIL)
     let ZERO = Number(0L)

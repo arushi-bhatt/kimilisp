@@ -107,6 +107,7 @@ module Types
             | :? Node as y -> Node.equals x y
             | _ -> false
 
+(*     *)
         override x.GetHashCode() =
             match x with
             | Nil -> 0
